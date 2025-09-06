@@ -73,8 +73,9 @@ istat -f fat -o 0 disk.dd 4
 ## OUTPUT:
 
 ### Creating a disk file
+<img width="1105" height="495" alt="Screenshot 2025-09-06 141440" src="https://github.com/user-attachments/assets/9644a131-363f-4ad6-b654-e749b3aee244" />
 
-<img width="906" height="669" alt="VirtualBox_KaliLinux2024_17_08_2025_09_06_01" src="https://github.com/user-attachments/assets/3edd04cd-bbfc-4167-a50f-9d7f4a47e3be" />
+<img width="1106" height="141" alt="image" src="https://github.com/user-attachments/assets/bff3a035-cc20-4a92-abb0-cd601a45f81b" />
 
 ### View partitions
 
